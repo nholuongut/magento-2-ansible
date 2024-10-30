@@ -6,7 +6,7 @@
 
 ```
 Old project now we have better ways to deploy infrastructure Docker, Kubernetis,Terrrafirm and SDK
-1. Our new project - (https://github.com/nholuongut/aws-magento-2-cloud-Terraform-infrastructure-as-code)
+1. Our new project - (nholuongut/magento-2-cloud-on-aws-with-terraform)
 2. React For magento 2 - (https://github.com/nholuongut/reactjs-vuejs-magento-2)
 ```
 
